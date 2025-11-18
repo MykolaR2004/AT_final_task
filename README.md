@@ -21,8 +21,13 @@ Make sure that all tasks are supported by these 3 conditions: UC-1; UC-2; UC-3.
 Please, add task description as README.md into your solution! 
 
 To perform the task use the various of additional options: 
+
 Test Automation tool: Selenium WebDriver; Project Builder: Maven; 
+
 Browsers: 1) Firefox; 2) Edge; Locators: XPath; Test Runner: JUnit; 
+
 [Optional] Patterns: Singleton; 2) Factory method; 3) Abstract Factory; 
+
 [Optional] Test automation approach: BDD; Assertions: AssertJ; 
+
 [Optional] Loggers: SLF4J .
